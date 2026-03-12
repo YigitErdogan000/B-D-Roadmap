@@ -2,7 +2,7 @@
 # Personal Investment Advisor App
 ### Business Development & Product Roadmap
 
-**Author:** Yaman Dinçkan
+**Author:** Yaman Dinçkan Yiğit Erdoğan Halil İbrahim Özsoy
 **Version:** 1.0 · March 2025 · Pilot Market: Turkey
 
 ---
